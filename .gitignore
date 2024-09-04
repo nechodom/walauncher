@@ -2,3 +2,4 @@
 config.json
 img/*
 !img/image_name.jpg
+.vscode/settings.json
